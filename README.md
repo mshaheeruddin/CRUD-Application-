@@ -1,10 +1,13 @@
 # CRUD Application
 
 ## *By M.Shaheer Uddin*
+### *Supervised by Mr Pardeep Kumar* 
+#### *Corporate Internship Task - NdcTech*
 
 **Employee Management System** is a CRUD application written in Java which uses JDBC API to connect with MySQL Database. 
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
+
 
 ## Functionality 
 
