@@ -25,6 +25,6 @@ The following libraries/apis/technologies are used:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/dvXQe1h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Z4D8RVJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
